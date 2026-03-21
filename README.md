@@ -22,7 +22,7 @@ It involves:
 
 ## 🏗️ System Design Overview
 
-![System Design](https://miro.medium.com/v2/resize:fit:1400/1*QJ6v1C5jHcps225y7sY9VQ.png)
+![System Design][(https://miro.medium.com/v2/resize:fit:1400/1*QJ6v1C5jHcps225y7sY9VQ.png)](https://storage.googleapis.com/download/storage/v1/b/designgurus-prod.appspot.com/o/5674532292a949f3c76c5aa01?generation=1724655202612455&alt=media)
 
 ---
 
