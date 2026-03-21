@@ -37,3 +37,17 @@ It includes:
 ```http
 GET /data HTTP/1.1
 Host: example.com
+
+🔐 What is HTTPS?
+
+HTTPS (HTTP Secure) is the secure version of HTTP.
+
+✅ Characteristics:
+Data is encrypted using SSL/TLS
+Secure communication
+Protects sensitive data (passwords, tokens)
+Uses port 443
+📦 Example:
+GET /data HTTP/1.1
+Host: example.com
+(Sent over encrypted connection)
