@@ -1,4 +1,4 @@
-# 🚀 30 Days System Design Marathon
+# 🚀 System Design Marathon
 
 > 📍 Goal: Master System Design  
 > 📍 Author: Jeevan  
