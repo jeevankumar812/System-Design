@@ -1,6 +1,6 @@
 # 🚀 30 Days System Design Marathon
 
-> 📍 Goal: Master System Design from basics to advanced in 30 days  
+> 📍 Goal: Master System Design  
 > 📍 Author: Jeevan  
 > 📍 Focus: Backend + Real-World Architecture  
 
@@ -31,15 +31,11 @@ It involves:
 | Day | Topic | Notes | Status |
 |-----|------|------|--------|
 | Day 1 | Client–Server Architecture | [View](./Day1) | ✅ |
-| Day 2 | HTTP / HTTPS Internals | [View](./Day2/02-HTTP-HTTPS.md) | ✅ |
-| Day 3 | DNS Resolution Process | [View](./Day3/03-DNS-Resolution.md) | ✅ |
-| Day 4 | API Design (REST vs GraphQL vs gRPC) | [View](./Day4/04-API-Design.md) | ✅ |
-| Day 5 | Coming Soon | - | ⏳ |
-| Day 6 | Coming Soon | - | ⏳ |
-| Day 7 | Coming Soon | - | ⏳ |
-| ... | ... | ... | ... |
-| Day 30 | Coming Soon | - | ⏳ |
+| Day 2 | HTTP / HTTPS Internals | [View](./Day2) | ✅ |
+| Day 3 | DNS Resolution Process | [View](./Day3) | ✅ |
+| Day 4 | API Design (REST vs GraphQL vs gRPC) | [View](./Day4) | ✅ |
+
 
 ---
 
-## 📂 Repository Structure
+
