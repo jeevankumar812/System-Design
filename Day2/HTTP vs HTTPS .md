@@ -1,4 +1,4 @@
-# 🔐 HTTP vs HTTPS – Node.js Backend Project
+# 🔐 HTTP vs HTTPS (Day 2 )
 
 ---
 
