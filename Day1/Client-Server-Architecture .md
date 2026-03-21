@@ -1,4 +1,4 @@
-# 🚀 Client–Server Architecture - System Design ( Day 1)
+# 🚀 Client–Server Architecture - System Design (Day 1)
 
 ---
 
