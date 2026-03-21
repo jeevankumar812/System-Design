@@ -1,4 +1,4 @@
-# 🚀 API Design (REST vs GraphQL vs gRPC) - System Design ( Day 4 )
+# 🚀 API Design (REST vs GraphQL vs gRPC) - System Design (Day 4)
 
 ---
 
