@@ -39,7 +39,7 @@ GET /data HTTP/1.1
 Host: example.com
 ```
 
-
+---
 ## 🔐 What is HTTPS?
 
 **HTTPS (HTTP Secure)** is the secure version of HTTP.
