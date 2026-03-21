@@ -30,7 +30,7 @@ It involves:
 | Day | Topic | Notes |
 |-----|------|------|
 | Day 1 | Client–Server Architecture | [View](./Day1) |
-| Day 2 | HTTP / HTTPS Internals | [View](./Day2) | 
+| Day 2 | HTTP vs HTTPS  | [View](./Day2) | 
 | Day 3 | DNS Resolution Process | [View](./Day3) | 
 | Day 4 | API Design (REST vs GraphQL vs gRPC) | [View](./Day4) | 
 
