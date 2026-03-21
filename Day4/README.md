@@ -35,8 +35,6 @@ DELETE /users/1
 - Over-fetching (extra data)
 - Under-fetching (multiple requests needed)
 
-## 🎯 Interview Sentence
-REST uses multiple endpoints and standard HTTP methods, where the server returns fixed JSON responses.
 
 ---
 
@@ -71,8 +69,6 @@ email
 - Harder caching
 - Learning curve
 
-## 🎯 Interview Sentence
-GraphQL allows clients to fetch exactly the required data from a single endpoint, improving efficiency.
 
 ---
 
@@ -104,8 +100,6 @@ rpc GetUsers (Empty) returns (UserList);
 - Hard to debug
 - Requires proto file
 
-## 🎯 Interview Sentence
-gRPC is a high-performance protocol using HTTP/2 and Protocol Buffers, mainly used for communication between microservices.
 
 ---
 
