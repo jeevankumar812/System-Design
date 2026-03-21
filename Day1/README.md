@@ -113,11 +113,3 @@ Client → Load Balancer → API Gateway → Services → Database
 
 ---
 
-## 🔥 Example (Node.js Backend)
-
-```javascript
-app.get("/api/data", (req, res) => {
-  res.json({ message: "Hello Client" });
-});
-
-👉 Client sends request → Server responds with JSON
