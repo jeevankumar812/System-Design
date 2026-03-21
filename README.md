@@ -2,7 +2,6 @@
 
 > 📍 Goal: Master System Design  
 > 📍 Author: Jeevan  
-> 📍 Focus: Backend + Real-World Architecture  
 
 ---
 
@@ -26,7 +25,7 @@ It involves:
 
 ---
 
-## 📅 Progress Tracker
+## 🎯 Mission Tracker
 
 | Day | Topic | Notes |
 |-----|------|------|
