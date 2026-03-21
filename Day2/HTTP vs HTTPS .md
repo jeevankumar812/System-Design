@@ -1,4 +1,4 @@
-# 🔐 HTTP vs HTTPS - ( System Design Day 2)
+# 🔐 HTTP vs HTTPS - System Design ( Day 2)
 
 ---
 
