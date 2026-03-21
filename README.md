@@ -25,7 +25,7 @@ It involves:
 
 ---
 
-## 🎯 Mission Tracker
+## 🎯 System Design Concepts Every Engineers Must Know
 
 | Day | Topic | Notes |
 |-----|------|------|
