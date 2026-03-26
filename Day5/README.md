@@ -1,4 +1,4 @@
-# 📊 Database Design & Data Modeling – Smart Expense Tracker API
+# 📊 Database Design & Data Modeling – System Design (Day 5)
 
 ## 🧠 Overview
 
