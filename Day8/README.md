@@ -135,6 +135,8 @@ Automatic switching to a replica if the primary fails.
 
 ---
 
-## 🏁 Conclusion
 
+<<<<<<< HEAD
 Database Replication is a critical concept in system design that helps build scalable, fault-tolerant, and highly available systems. It is widely used in real-world applications to handle large-scale traffic and ensure reliability.
+=======
+>>>>>>> 92d36e8 (Save all pending changes before rebase)
