@@ -1,4 +1,4 @@
-# 📀 Day 8: Database Replication
+# 📀 Database Replication - System - Design (Day 8)
 
 ## 📌 Overview
 Database Replication is the process of copying and maintaining the same data across multiple database servers (nodes). It is a fundamental concept in distributed systems used to improve availability, reliability, and performance.
