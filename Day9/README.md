@@ -1,4 +1,4 @@
-# 📅 Day 9 — Database Sharding
+# 📅  Database Sharding - System Design (Day 9)
 
 ---
 
